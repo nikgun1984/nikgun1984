@@ -5,8 +5,10 @@
 </a>
 
 <br />
-![Github stats](https://github-readme-stats.vercel.app/api?username=nikgun1984&theme=highcontrast&show_icons=true&count_private=true)  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgun1984&layout=compact&langs_count=8&hide=html,jupyter_notebook)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=nikgun1984&theme=highcontrast&show_icons=true&count_private=true)   
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgun1984&layout=compact&langs_count=8&hide=html)  
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikgun1984&layout=compact)](https://wakatime.com/@nikgun1984)
 
