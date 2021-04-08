@@ -1,7 +1,10 @@
-## Hi there 👋 I am Nick!!!
+## Hi there 👋 I am Nick!!!  
+<br />
+<a href="https://www.linkedin.com/in/nick-gundobin-5b905931/">
+  <img align="left" alt="Nick Gundobin" width="50px" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg"/>
+</a>
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png = 50x)](https://www.linkedin.com/in/nick-gundobin-5b905931/)
-
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikgun1984&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgun1984&layout=compact)  
