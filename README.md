@@ -1,8 +1,6 @@
-## Hi there 👋 I am Nick!!! <a href="https://www.linkedin.com/in/nick-gundobin-5b905931/">
-  <img align="left" alt="Nick Gundobin | Linkedin" width="50px" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png"/>   
-  </a>
-<br />  
-<br />  
+## Hi there 👋 I am Nick!!!
+
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png = 50x)](https://www.linkedin.com/in/nick-gundobin-5b905931/)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikgun1984&theme=highcontrast&show_icons=true&count_private=true)
