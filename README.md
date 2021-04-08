@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nick!!!
 
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Nick Gundobin | LinkedIn" width="21px" src="https://www.linkedin.com/in/nick-gundobin-5b905931/"/>
+<a href="https://www.linkedin.com/in/nick-gundobin-5b905931/">
+  <img align="left" alt="Nick Gundobin | Linkedin" width="50px" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png"/>
 </a>
 
 <br />
