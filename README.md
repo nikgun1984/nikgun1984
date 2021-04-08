@@ -6,8 +6,8 @@
 
 <br/>
 <br/>
-
-- 🌱 I’m currently learning Reat/Redux/Data Structures and Algorithms...
+  
+🌱 I’m currently learning Reat/Redux/Data Structures and Algorithms...
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikgun1984&theme=highcontrast&show_icons=true&count_private=true)
