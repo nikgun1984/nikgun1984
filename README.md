@@ -11,9 +11,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nikgun1984&layout=compact&langs_count=8&hide=html)  
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikgun1984&layout=compact)](https://wakatime.com/@nikgun1984)
-
-
 ### Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
