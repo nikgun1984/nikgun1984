@@ -27,6 +27,8 @@
 <code><img height="40" src="https://redux.js.org/img/redux-logo-landscape.png"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>  
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></code>
+<code><img height="40" src="https://mui.com/static/logo.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/389/1*TkAB50MOKlN1sl1HdyLLDA.jpeg"></code>
 <code><img height="40" src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4850de49604597.5608607aaab6c.png"></code>
