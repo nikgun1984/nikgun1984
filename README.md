@@ -1,4 +1,4 @@
-## Hi there 👋 I am Nick!!!  
+## Hi there 👋 I am a software engineer specializing in Full-Stack development!!! My recent interests are Machine Learning and Data
 <br />
 <a href="https://www.linkedin.com/in/nick-gundobin-5b905931/">
   <img align="left" alt="Nick Gundobin" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
