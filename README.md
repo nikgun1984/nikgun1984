@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Nick!!!  
 <br />
 <a href="https://www.linkedin.com/in/nick-gundobin-5b905931/">
-  <img align="left" alt="Nick Gundobin" width="50px" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg"/>
+  <img align="left" alt="Nick Gundobin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
 </a>
 
 <br />
@@ -36,4 +36,4 @@
 
 
 -----
-🌱 I’m currently working on reviewing React and legacy React...
+🌱 I’m currently working on mastering Machine Learning Skills...
